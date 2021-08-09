@@ -1,1 +1,1 @@
-# H2O-Tutorial by Perfect Plan B
+# H2O-Tutorial (machine learning framework) by **Perfect Plan B**
